@@ -1,0 +1,11 @@
+{
+  "name": "react-component-creator",
+  "version": "0.0.1",
+  "description": "Node script to build a component directory.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Blake",
+  "license": "MIT"
+}
